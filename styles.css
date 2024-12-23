@@ -17,6 +17,11 @@ body {
     max-width: 600px;
     text-align: center;
     border: 2px solid #ddd;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    &:hover{
+        transform: translateY(-10px);
+        box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+    }
   }
 
   .cl-title {

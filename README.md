@@ -3,5 +3,5 @@
  
 ## Project URL
 
-You can view the live project here: [Live Demo](https://mohanbhasin.github.io/changelog/)
+You can view the live project here: [project URL](https://mohanbhasin.github.io/changelog/)
 

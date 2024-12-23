@@ -3,5 +3,5 @@
  
 ## project URL
 
-You can view the live project here: [project URL](https://mohanbhasin.github.io/changelog/)
+You can view the live project here: [project URL](https://roadmap.sh/projects/changelog-component)
 

@@ -4,6 +4,7 @@
 ## Project Description
 
 Project details: [roadmap.sh](https://roadmap.sh/projects/changelog-component)
+
 You can view the project [here](https://mohanbhasin.github.io/changelog/)
 
 
